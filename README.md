@@ -5,3 +5,4 @@ I will now practice how to commit changes
 - Added **ASTE 404 HW 4.pdf**
 - Verified CLI push works.
 - Now testing VS Code Source Control (commit, push, branch, PR).
+- Created `notes-branch` and will merge via Pull Request
