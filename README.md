@@ -8,7 +8,7 @@
 - (e) Cloned to `/Users/giovannisuarez/aste404/HW4/hello-world`
 - (f) Added **ASTE 404 HW 4.pdf**, committed, pushed
 - (g) Used an IDE (VS Code) for Git: commit, branch, PR, diff, graph
-- (h) Updated README and downloaded ZIP for Brightspace
+- (h) Updated README and downloaded ZIP for submission
 
 ## How To Reproduce
 1. `git clone <HTTPS URL of this repo>`
